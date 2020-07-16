@@ -1,4 +1,4 @@
-# vue-weather
+# Vue Weather App
 
 ## Project setup
 ```
@@ -19,6 +19,9 @@ npm run build
 ```
 npm run lint
 ```
+
+**Screenshot**
+![screen](screen.png)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
